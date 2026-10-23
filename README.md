@@ -86,13 +86,6 @@ A tool that checks how strong a password is, a security-minded project that fits
 
 > 🔒 My other projects, including full-stack work like the E-Participation System, are kept private. **Happy to walk through them or give access on request.** Reach out via LinkedIn or X.
 
-## GitHub Stats 📊
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=preshy-coder&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preshy-coder&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top languages" />
-</p>
-
 ## Get in Touch 📬
 
 - **LinkedIn:** [precious-rhys](https://www.linkedin.com/in/precious-rhys)
