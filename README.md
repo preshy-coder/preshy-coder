@@ -90,7 +90,7 @@ A tool that checks how strong a password is, a security-minded project that fits
 
 - **LinkedIn:** [precious-rhys](https://www.linkedin.com/in/precious-rhys)
 - **X (Twitter):** [@XequalsYou](https://x.com/XequalsYou)
-- **Instagram:** [fontana_brains](https://www.instagram.com/fontana_brains)
+- **Instagram:** [xe_q.e.d](https://www.instagram.com/xe_q.e.d)
 
 ---
 
