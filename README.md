@@ -12,13 +12,13 @@ I'm a passionate **Junior Full Stack Developer** who is especially strong on the
 
 🌱 Constantly learning and sharpening my skills in backend technologies, system testing and ethical hacking.
 
-- 🌱 Currently learning: **Ethical hacking & penetration testing (Kali Linux)**
-- 🔭 Working on: **VoicePay**, voice-initiated payments with fraud detection
-- 🌍 Languages: Spoken — **(English, Swahili)**, Programming — **(Python, JavaScript, TypeScript, Java, C#, C++, PHP, R, SQL)**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/precious-rhys) or [X](https://x.com/XequalsYou)
-- ⚡ Fun fact: **Into our cosmos we roll 🙂**
+-  Currently learning: **Ethical hacking & penetration testing (Kali Linux)**
+-  Working on: **VoicePay**, voice-initiated payments with fraud detection
+-  Languages: Spoken — **(English)**, Programming — **(Python, JavaScript, TypeScript, Java, C#, C++, PHP, R, SQL)**
+- How to reach me: [LinkedIn](https://www.linkedin.com/in/precious-rhys) or [X](https://x.com/XequalsYou)
 
-## My Skills 🧠
+
+## My Skills 
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -86,7 +86,7 @@ Say *"send 500 to John"* and VoicePay turns it into a pending payment, scores it
 A tool that checks how strong a password is, a security-minded project that fits my ethical hacking interests.
 [View the repository](https://github.com/preshy-coder/password_checker)
 
-## Get in Touch 📬
+## Get in Touch 
 
 - **LinkedIn:** [precious-rhys](https://www.linkedin.com/in/precious-rhys)
 - **X (Twitter):** [@XequalsYou](https://x.com/XequalsYou)
