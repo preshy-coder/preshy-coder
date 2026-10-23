@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="Preshy's dev setup banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there, I'm Preshy! 👋</h1>
+<h1 align="center">Hi there, I'm Precious! 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Junior+Full+Stack+Software+Developer;Backend+%26+API+Specialist;Ethical+Hacking+%7C+Kali+Linux;Into+our+cosmos+we+roll+%F0%9F%99%82" alt="Typing animation" />
@@ -80,11 +80,11 @@ Say *"send 500 to John"* and VoicePay turns it into a pending payment, scores it
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Security](https://img.shields.io/badge/Security-Fraud_Detection-red?style=flat-square)
 [View the repository](https://github.com/preshy-coder/voicepay)
 
-### 🔐 Password Checker
+###  Password Checker
 A tool that checks how strong a password is, a security-minded project that fits my ethical hacking interests.
 [View the repository](https://github.com/preshy-coder/password_checker)
 
-> 🔒 My other projects, including full-stack work like the E-Participation System, are kept private. **Happy to walk through them or give access on request.** Reach out via LinkedIn or X.
+> 🔒 My other projects, including full-stack work like the Control-Desk (DIGICAB), and many more are kept private. **Happy to walk through them or give access on request.** Reach out via LinkedIn or X.
 
 ## Get in Touch 📬
 
