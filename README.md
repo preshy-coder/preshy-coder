@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Preshy's dev setup banner" width="100%" />
+</p>
+
 <h1 align="center">Hi there, I'm Preshy! 👋</h1>
 
 <p align="center">
