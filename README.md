@@ -75,7 +75,7 @@ I'm a passionate **Junior Full Stack Developer** who is especially strong on the
 
 ## Featured Projects 💻
 
-> 🔒 Most of my projects, including full-stack work like the E-Participation System, are **private**. I'm happy to take you through them on request. Reach out via LinkedIn or X. Here are two public ones you can explore right now:
+> 🔒 Most of my projects, including full-stack work like the E-Participation System and 700 more are **private**. I'm happy to take you through them on request. Reach out via LinkedIn or X. Here are two public ones you can explore right now:
 
 ### 🎙️ VoicePay: Voice Payments with Fraud Detection
 Say *"send 500 to John"* and VoicePay turns it into a pending payment, scores its risk, and asks for the right level of proof (PIN, or PIN + one-time code) before money moves. Includes a rule-based fraud engine, idempotent transfers, PBKDF2-hashed PINs, signed session tokens and an audit log, plus a pluggable bank adapter for real integrations.
