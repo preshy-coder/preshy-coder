@@ -9,9 +9,9 @@
 </p>
 
 I'm a passionate **Junior Full Stack Developer** who is especially strong on the **backend**. I love building clean, scalable systems and APIs, testing them properly, and securing them like an attacker would.
-                    Oh! and i love Mathematics!!
+                  
 🌱 Constantly learning and sharpening my skills in backend technologies, system testing and ethical hacking.
-
+                            Oh! and i love Mathematics!!
 -  Currently learning: **Ethical hacking & penetration testing (Kali Linux)**
 -  Working on: **VoicePay**, voice-initiated payments with fraud detection
 -  Languages: Spoken — **(English)**, Programming — **(Python, JavaScript, TypeScript, Java, C#, C++, PHP, R, SQL)**
