@@ -2,14 +2,14 @@
   <img src="assets/banner.png" alt="Preshy's dev setup banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there, I'm Precious! 👋</h1>
+<h1 align="center">Hola, I'm Precious! 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Junior+Full+Stack+Software+Developer;Backend+%26+API+Specialist;Ethical+Hacking+%7C+Kali+Linux;Into+our+cosmos+we+roll+%F0%9F%99%82" alt="Typing animation" />
 </p>
 
 I'm a passionate **Junior Full Stack Developer** who is especially strong on the **backend**. I love building clean, scalable systems and APIs, testing them properly, and securing them like an attacker would.
-
+                    Oh! and i love Mathematics!!
 🌱 Constantly learning and sharpening my skills in backend technologies, system testing and ethical hacking.
 
 -  Currently learning: **Ethical hacking & penetration testing (Kali Linux)**
